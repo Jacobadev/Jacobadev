@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobadev&hide=prs,stars&show_icons=true&theme=catppuccin_mocha&bg_color=00000000)](https://github.com/jacobadev/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobadev)](https://github.com/jacobadev/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobadev&hide=prs,stars&show_icons=true&theme=catppuccin_mocha&bg_color=00000000)](https://github.com/jacobadev/github-readme-stats)
+
 
 <!--
 **Jacobadev/Jacobadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
