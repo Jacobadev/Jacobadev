@@ -2,7 +2,7 @@
 
 
 
-  <img height=200 align="center" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobadev&hide=prs,stars&show_icons=true&theme=catppuccin_mocha&bg_color=00000000)]" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jacobadev&hide=prs,stars&show_icons=true&theme=catppuccin_mocha&bg_color=00000000" />
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobadev&show_icons=true&theme=catppuccin_mocha&bg_color=00000000&exclude_repo=dotfiles&layout=compact&langs_count=8&card_width=320" />
 
